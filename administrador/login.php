@@ -13,7 +13,8 @@
 <body>
 
 	<header>
-		<nav>
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+			<div class="container-fluid">
 			<ul>
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Produtos</a></li>
@@ -21,6 +22,7 @@
 				<li><a href="#">Categorias</a></li>
 
 			</ul>
+		</div>
 		</nav>
 	</header>
 <main>
